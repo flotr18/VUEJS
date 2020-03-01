@@ -52,6 +52,8 @@
     }
 </script>
 
+
+
 <style>
     @font-face {
         font-family: F1Font;
